@@ -1,1 +1,8 @@
-1)
+Отключить на сервере "русский Apache"
+------------------
+поместить в файл .htaccess в 
+каталоге документов сервера: 
+
+<IfModule mod_charset.с> 
+CharsetDisable on 
+</IfModule> 
