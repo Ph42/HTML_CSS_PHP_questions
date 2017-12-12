@@ -3,3 +3,6 @@ https://habrahabr.ru/post/204464/
 
 Формы в php, использование переменной $_SERVER['SCRIPT_NAME']
 https://alekseygulynin.ru/formy-v-php/
+
+HTTP -- HTTP/1.1
+https://www.w3.org/Protocols/rfc2616/rfc2616.html
