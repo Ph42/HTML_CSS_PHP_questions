@@ -3,3 +3,4 @@
 $formatted = sprintf("%01.2f", $money);
 // echo $formatted выведет "123.10"  
 ----------------
+select в Формах

@@ -63,3 +63,9 @@ CharsetDisable on
 	printf("Вот параметры, которые Вы указали: %s<br>", Data); 
 	printf("А вот то, что мы получили через URL: %s", QueryString); 
 	printf ("</bodyx/html>") ; 
+========================================
+атрибут формы <form enctype="">
+Для передачи файлов
+	enctype = "multipart/form-data"
+по умолчанию (с применением url-кодирования)
+	enctype = "application/x-www-form-urlencoded"
